@@ -44,7 +44,7 @@
 </p>
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/header.svg"/>
+<img align="right" src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/hi.svg"/>
 
 
 
