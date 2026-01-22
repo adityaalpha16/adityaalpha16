@@ -44,7 +44,7 @@
 </p>
 
 ---
-<img align="right" src="https://www.flaticon.com/free-sticker/hi_10006125?term=anime&page=1&position=53&origin=tag&related_id=10006125" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/header.svg"/>
 
 
 
