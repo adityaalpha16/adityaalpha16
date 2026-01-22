@@ -1,32 +1,73 @@
-<div align="center">
-
-# Aditya Kumar Rai
-
-### Computer Science and Engineering Student  
-> 💡 *"Crafting logic and elegance in every line of code."*
-
-</div>
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+  <img src="https://raw.githubusercontent.com/AdityaKumarRai/AdityaKumarRai/main/header.svg" width="100%" />
 </p>
+
+<h1 align="center">Aditya Kumar Rai</h1>
+
+<p align="center">
+  👨‍💻 Computer Science Student | Fullstack Developer  
+</p>
+
+<p align="center">
+  💡 “Crafting logic and elegance in every line of code.”
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:adityaalpha16@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adityakumarrai16004)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mortal_monk0004)
+<p align="center">
+  <a href="mailto:your.adityaalpha16@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityakumarrai16004">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/mortal_monk0004">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,cs,python,nodejs,react,azure,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,cs,c" />
 </p>
+
+---
+
 ## ⚙️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,sqlite,mysql" />
 </p>
+
+---
+
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarRai&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
+
 ## 💬 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-<img align="right" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="150"/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  🙌 Thanks for visiting my profile!
+</p>
+
 
 
