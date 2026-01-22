@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/header.svg" width="100%" />
 </p>
 
-<h1 align="center">Aditya Kumar Rai</h1>
 
 <p align="center">
   👨‍💻 Computer Science Student | Fullstack Developer  
