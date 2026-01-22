@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaKumarRai/AdityaKumarRai/main/header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/header.svg" width="100%" />
 </p>
 
 <h1 align="center">Aditya Kumar Rai</h1>
