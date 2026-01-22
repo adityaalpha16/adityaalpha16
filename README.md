@@ -44,10 +44,6 @@
 </p>
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/hi.svg" width="180" />
-<br clear="right"/>
-<hr width="70%"/>
-
 
 
 ## 📈 Most Used Languages
@@ -59,7 +55,12 @@
 ---
 
 
+<img align="right" src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/hi.svg" width="180" />
+<br clear="right"/>
+<hr width="70%"/>
 
+
+---
 ## 💬 Random Dev Quote
 
 <p align="center">
