@@ -44,8 +44,9 @@
 </p>
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/hi.svg"/>
-
+<img align="right" src="https://raw.githubusercontent.com/adityaalpha16/adityaalpha16/main/hi.svg" width="180" />
+<br clear="right"/>
+<hr width="70%"/>
 
 
 
