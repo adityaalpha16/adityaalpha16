@@ -43,14 +43,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,sqlite,mysql" />
 </p>
 
----
-
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarRai&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
