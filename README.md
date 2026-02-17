@@ -11,7 +11,6 @@
   💡 “Crafting logic and elegance in every line of code.”
 </p>
 ---
----
 
 ## 🌐 Connect with Me
 
