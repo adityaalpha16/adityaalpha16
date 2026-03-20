@@ -42,14 +42,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaalpha16&theme=onedark&row=1&column=6" />
-</p>
-
----
-
 ## 📌 Highlights
 
 <p align="center">
