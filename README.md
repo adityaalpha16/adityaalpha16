@@ -93,6 +93,7 @@
 
 ---
 
-<p align="center">
-  <i>✨ Thanks for visiting my profile! Let's build something amazing together. ✨</i>
-</p>
+<h1 align="center">
+  <span style="color:#00FFFF;">✨ Thanks for visiting my profile!</span><br>
+  <span style="color:#00D4FF;">🚀 Let's build something amazing together.</span>
+</h1>
