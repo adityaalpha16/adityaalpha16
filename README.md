@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  🙌 Thanks for visiting my profile!
+  <i>✨ Thanks for visiting my profile! Let's build something amazing together. ✨</i>
 </p>
