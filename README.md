@@ -34,14 +34,6 @@
 
 ---
 
-## 📊 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaalpha16&theme=react-dark" />
-</p>
-
----
-
 ## 📌 Highlights
 
 <p align="center">
