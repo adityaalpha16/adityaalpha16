@@ -37,8 +37,8 @@
 ## 📌 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-100%2B-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LeetCode%20Rating-1500%2B-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-200%2B-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode%20Rating-1600%2B-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-Strong-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Contest-Active-brightgreen?style=for-the-badge"/>
 </p>
